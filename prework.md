@@ -10,7 +10,7 @@ If you don't have them already, sign up for free accounts on the following servi
 * [Medium](http://medium.com) - You'll be writing blog posts during the course, for the purposes of both reflection and building your personal brand. Medium's interface is great.
 * [Codecademy](http://codecademy.com) - An awesome *free* online code course.
 
-For GitHub at least, *please* to set your real name and make your icon a picture of yourself. (I'm awful at remembering names and this will help.) E-mail me your GitHub username so I can add you to the organization in advance of the class.
+For GitHub at least, *please* set your real name and also make your icon a picture of yourself. (I'm awful at remembering names and this will help.) E-mail me your GitHub username so I can add you to the organization in advance of the class.
 
 ### Computer Setup
 
