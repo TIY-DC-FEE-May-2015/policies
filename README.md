@@ -10,5 +10,5 @@ Here's some starter information about the course, what I'll be teaching, and how
 4. [Assignments](assignments.md)
 5. [Prework](prework.md)
 
-Feel free to contact [Su](mailto:su.kim@theironyard.com) or [myself](mailto:kyle.hill@theironyard.com) at any time if you've got questions about any of this -- we're here to help you learn as much as you can, and make sure you're comfortable when doing so.
+Feel free to contact [Su](mailto:su@theironyard.com) or [myself](mailto:kyle.hill@theironyard.com) at any time if you've got questions about any of this -- we're here to help you learn as much as you can, and make sure you're comfortable when doing so.
 
