@@ -16,7 +16,12 @@ I'm not a wizard, and I'm sure as hell not smarter than you. Believing that I am
 
 ### There Are No Stupid Questions
 
+Over the next three months, your role in this program is to learn. Embrace that. Be talkative, be involved, be curious, and be questioning.
 
+Here's a promise: **As your instructor, I promise to answer every question you have.** I might table your question for later, or respond with a clarifying question that I'd like for you to research, but there is no such thing as a "dumb question." In my experience, there are two outcomes from someone asking a question that they think should be simple:
+
+* I answer it in five seconds and it illuminates a ton of information for the asker (and probably two or three other people that are listening), or...
+* It leads to a great discussion and *everyone* comes away smarter.
 
 ### Manage Your Stress
 
@@ -36,4 +41,6 @@ If there's anything resembling a golden rule at The Iron Yard, it's "Don't Be An
 
 First and foremost: The Iron Yard is committed to creating safe environments for learning. To quote [Lambda Jam's Diversity Policy](http://www.lambdajam.com/policies.html), this means a safe environment for "people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification." If at any time something or someone makes you feel uncomfortable, contact any of the instructors, the Campus Director, or any Iron Yard staff member at any campus privately and we'll help.
 
-All of our students will come to the class with different academic and professional backgrounds; all of our students will learn at different paces. The Iron Yard is dedicated to helping everyone learn to best of their capabilities. This means "don't compare yourself with other students." If you understand some course materials that someone else is struggling with, take it as an opportunity to sharpen your own knowledge and help them learn. (If you can't ELI5 something, you don't understand it well enough.)
+All of our students will come to the class with different academic and professional backgrounds; all of our students will learn at different paces. The Iron Yard is dedicated to helping everyone learn to best of their capabilities. This means "don't compare yourself with other students." 
+
+If you understand some course materials that someone else is struggling with, be mindful not to act in ways that may discourage them. (Think back to a time in your life when you were challenged by something, and remember how acutely you percieved any subtle signs of frustration or disappontment.) Instead, take it as an opportunity to sharpen your own knowledge and help them learn. If you can't ELI5 something, you don't understand it well enough.
